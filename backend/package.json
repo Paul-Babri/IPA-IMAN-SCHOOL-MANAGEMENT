@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "IMAN-SCHOOL-MANAGEMENT - Backend",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "IMAN-SCHOOL-MANAGEMENT - Backend"
 }
